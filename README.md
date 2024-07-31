@@ -27,9 +27,6 @@ git clone https://github.com/BaiYu96/u1pr.git
     <img src="https://contrib.rocks/image?repo=BaiYu96/u1pr" />
     
   </a>
-  <p>
-   minghuichou https://github.com/minghuichou/u1pr
-  </p>
 </div>
 
 
